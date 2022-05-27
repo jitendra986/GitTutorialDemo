@@ -6,4 +6,4 @@ Change by Jitendra.
 
 This is changed now
 
-ssh-keygen -t rsa -b 4096 -C your__gmail
+ssh-keygen -t rsa -b 4096 -C "jitendratiwari11@gmail.com"
